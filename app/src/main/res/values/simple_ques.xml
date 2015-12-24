@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Simple_Ques_Arr">
+    <item>What is The Name Of App ?</item>
+    <item>What is The Name Of Programmer ?</item>
+    <item>That App Made For ?</item>
+    <item>What is The Android Os ?</item>
+    <item>Who Is Support Android ?</item>
+    <item>What Is the Official IDE ?</item>
+
+</string-array>
+
+
+
+
+</resources>

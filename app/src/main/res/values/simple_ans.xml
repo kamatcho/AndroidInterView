@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Simple_ans_Arr">
+        <item>Android InterView</item>
+        <item>Muhammed Abd Elrazek</item>
+        <item>That App Made For Beginner</item>
+        <item>it is open source os</item>
+        <item>Google</item>
+        <item>Android Studio</item>
+
+    </string-array>
+</resources>

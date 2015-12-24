@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android InterView</string>
+    <string name="action_settings">Settings</string>
+    <string name="Simple_Question">Simple Question</string>
+    <string name="Tough_Question">Tough Question</string>
+    <string name="See_Our_Other_App">See Our Other App</string>
+    <string name="Rate_This_App">Rate This App</string>
+    <string name="title_activity_simple__ques">Simple_Ques</string>
+    <string name="Next">Next</string>
+    <string name="Answer">Answer</string>
+    <string name="Prev">Previous</string>
+
+</resources>
